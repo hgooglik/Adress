@@ -17,6 +17,12 @@ namespace Laba1
             street = "none";
             nomberOfHouse = 0;
         }
+        public Adress(string cty, string str, int nomber)
+        {
+            city = cty;
+            street = str;
+            nomberOfHouse = nomber;
+        }
         public void AddAdress(string cty,string str, int nomber)
         {
             city = cty;
