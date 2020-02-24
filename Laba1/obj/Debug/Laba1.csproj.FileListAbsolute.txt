@@ -1,0 +1,6 @@
+D:\YP\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\YP\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\YP\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\YP\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+D:\YP\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\YP\Laba1\Laba1\obj\Debug\Laba1.pdb

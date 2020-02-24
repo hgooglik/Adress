@@ -19,6 +19,7 @@ namespace Laba1
             int Nomber = Convert.ToInt32(Console.ReadLine());
             adress.AddAdress(City,Street,Nomber);
             adress.Print();
+            Console.ReadKey();
         }
     }
 }
